@@ -1,0 +1,3 @@
+-What happens when you initialize a repository? Why do you need to do it?
+
+Init seems to setup the filesystem framework that git needs to be able to handle future commits and actions on the repository.
