@@ -5,3 +5,7 @@ Init seems to setup the filesystem framework that git needs to be able to handle
 -How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It gives a overview of the content for the next commit. It helps to minimize the amount of files in a commit. 
+
+-How can you use the staging area to make sure you have one commit per logical change?
+
+That can be done by adding a file and then making a commit before adding the other files.
