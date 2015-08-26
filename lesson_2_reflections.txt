@@ -1,3 +1,7 @@
 -What happens when you initialize a repository? Why do you need to do it?
 
 Init seems to setup the filesystem framework that git needs to be able to handle future commits and actions on the repository.
+
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It gives a overview of the content for the next commit. It helps to minimize the amount of files in a commit. 
