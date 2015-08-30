@@ -21,3 +21,7 @@ Diagrams make it possible to easier get a understanding how different branches a
 -What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging combines different parts of code into one project. Merging is usually done when a branched development is in a completed condition and ready to be merged in the full project. The diagram is a good way to map the changes in the code and get a clear view of how the code have been modified.
+
+-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro's is that the developer get more control of what is being merged and can make decisions on what to keep without as many surprises. Cons would be that it takes a bit more time to merge, where the developer needs to spend time understanding more code parts.
