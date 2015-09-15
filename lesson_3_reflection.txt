@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It would be benificial while multiple people are working on the same parts of code or when you don't wanna risk breaking a working software. 
