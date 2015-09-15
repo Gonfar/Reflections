@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Would have to e-mail files back and forth and renameing folders to keep track of versions, or have a common storage point where the code would be stored. Harder would be to keep changes separete when working on the same parts in the code and easier could be if the project is small.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
